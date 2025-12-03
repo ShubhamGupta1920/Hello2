@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     cout<<"hello"<<endl;
-
+    int c;
     //add two numbers
 
 
