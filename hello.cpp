@@ -2,9 +2,7 @@
 using namespace std;
 int main(){
     cout<<"hello"<<endl;
-<<<<<<< HEAD
     cout<<"Jigyasha"<<endl;
-=======
 
     int c;
     cout<<"Shubham Gupta"<<endl;
@@ -16,7 +14,7 @@ int main(){
     cout<<"Hello Shubham"<<endl;
     cout<<"Hello How are you !"<<endl;
 
->>>>>>> main
+
     
     
 
